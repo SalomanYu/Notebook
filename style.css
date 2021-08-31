@@ -1,0 +1,10 @@
+QTextEdit {
+   background-color: #53545d; 
+   color: #bec9ca;
+   font-family:  Tahoma ;
+   font-size: 15px;
+}
+
+QMainWindow {
+    background-color:#bec9ca;
+}
